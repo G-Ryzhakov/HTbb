@@ -1,5 +1,5 @@
 # HTBB
-Hierarchical Tucker for Black Box gradient-free discrete approximation and optimization *HTBB*
+Hierarchical Tucker for Black Box gradient-free discrete approximation and optimization **HTBB**
 
 ## Installation
 
@@ -7,12 +7,12 @@ Hierarchical Tucker for Black Box gradient-free discrete approximation and optim
 
 2. Create a virtual environment:
     ```bash
-    conda create --name htde python=3.8 -y
+    conda create --name htbb python=3.8 -y
     ```
 
 3. Activate the environment:
     ```bash
-    conda activate htde
+    conda activate htbb
     ```
 
 4. Install dependencies:
@@ -29,7 +29,7 @@ Hierarchical Tucker for Black Box gradient-free discrete approximation and optim
 
 6. Optionally delete virtual environment at the end of the work:
     ```bash
-    conda activate && conda remove --name htde --all -y
+    conda activate && conda remove --name htbb --all -y
     ```
 
 
@@ -60,4 +60,4 @@ Hierarchical Tucker for Black Box gradient-free discrete approximation and optim
 ---
 
 
-> ✭__🚂  The stars that you give to **htde**, motivate us to develop faster and add new interesting features to the code 😃
+> ✭__🚂  The stars that you give to **HTBB**, motivate us to develop faster and add new interesting features to the code 😃
