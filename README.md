@@ -51,10 +51,10 @@ Hierarchical Tucker for Black Box gradient-free discrete approximation and optim
 
 ## Authors
 
-- [Gleb Ryzhakov](https://github.com/G-Ryzhakov)
-- [Andrei Chertkov](https://github.com/AndreiChertkov)
-- [Artem Basharin](https://github.com/a-wernon)
-- [Ivan Oseledets](https://github.com/oseledets)
+- [Gleb Ryzhakov](https://github.com/G-Ryzhakov) (Basic ideas, raw code for proof of consept)
+- [Andrei Chertkov](https://github.com/AndreiChertkov) (Code speed rewriting & speed up, most of experiments)
+- [Artem Basharin](https://github.com/a-wernon) (PEPS part, testing)
+- [Ivan Oseledets](https://github.com/oseledets) (Superwising)
 
 
 ---
