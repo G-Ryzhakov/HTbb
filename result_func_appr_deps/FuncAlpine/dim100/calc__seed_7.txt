@@ -1,0 +1,5 @@
+
+
+------------ FuncAlpine (d 100; n 8; nswp 100; r 2; dr_max 1; seed 7)
+htbb       | Error 5.90e-15 | Evals 3.9e+03 | Time 5.48e+01
+tt-cross   | Error 1.95e-02 | Evals 3.9e+03 | Time 2.94e-01

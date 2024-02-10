@@ -1,0 +1,5 @@
+
+
+------------ FuncAlpine (mean result)
+htbb       | Err 3.06e-16 | Evals 1.5e+02 | Time 8.23e-01
+tt-cross   | Err 1.04e-01 | Evals 1.4e+02 | Time 1.55e-02

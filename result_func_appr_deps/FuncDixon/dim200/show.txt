@@ -1,0 +1,5 @@
+
+
+------------ FuncDixon (mean result)
+htbb       | Err 6.00e-03 | Evals 1.9e+04 | Time 1.95e+02
+tt-cross   | Err 1.57e-01 | Evals 1.9e+04 | Time 1.33e+00

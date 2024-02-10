@@ -1,0 +1,43 @@
+
+
+------------ FuncAlpine (mean result)
+htbb       | Err 4.92e-15 | Evals 2.0e+04 | Time 2.08e+03
+
+------------ FuncChung (mean result)
+htbb       | Err 7.86e-03 | Evals 2.0e+04 | Time 3.16e+03
+
+------------ FuncDixon (mean result)
+htbb       | Err 3.75e-03 | Evals 3.7e+04 | Time 3.51e+03
+
+------------ FuncGriewank (mean result)
+htbb       | Err 1.37e-14 | Evals 2.0e+04 | Time 3.26e+03
+
+------------ FuncPathological (mean result)
+htbb       | Err 3.80e-02 | Evals 1.0e+05 | Time 3.24e+03
+
+------------ FuncPinter (mean result)
+htbb       | Err 8.80e-03 | Evals 1.0e+05 | Time 3.47e+03
+
+------------ FuncQing (mean result)
+htbb       | Err 1.85e-02 | Evals 2.0e+04 | Time 3.17e+03
+
+------------ FuncRastrigin (mean result)
+htbb       | Err 1.63e-14 | Evals 2.0e+04 | Time 3.36e+03
+
+------------ FuncSchaffer (mean result)
+htbb       | Err 1.94e-02 | Evals 7.4e+04 | Time 3.47e+03
+
+------------ FuncSchwefel (mean result)
+htbb       | Err 2.59e-13 | Evals 2.0e+04 | Time 3.62e+03
+
+------------ FuncSphere (mean result)
+htbb       | Err 1.16e-14 | Evals 2.0e+04 | Time 3.44e+03
+
+------------ FuncSquares (mean result)
+htbb       | Err 1.08e-14 | Evals 2.0e+04 | Time 2.71e+03
+
+------------ FuncTrigonometric (mean result)
+htbb       | Err 2.74e-02 | Evals 2.3e+04 | Time 1.01e+03
+
+------------ FuncWavy (mean result)
+htbb       | Err 1.18e-04 | Evals 2.0e+04 | Time 7.44e+02

@@ -1,0 +1,2800 @@
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 1]
+  >>>>>> min:    6.75219e+01   [time:  5.5e+01]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 1]
+  >>>>>> min:    4.58799e+02   [time:  3.9e+00]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 1]
+  >>>>>> min:    3.60522e+02   [time:  1.2e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 1]
+  >>>>>> min:    3.98691e+02   [time:  1.2e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 1]
+  >>>>>> min:    4.71540e+02   [time:  1.2e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 1]
+  >>>>>> min:    1.45295e+06   [time:  7.0e+00]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 1]
+  >>>>>> min:    8.00678e+07   [time:  4.0e+00]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 1]
+  >>>>>> min:    1.48207e+06   [time:  1.4e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 1]
+  >>>>>> min:    1.52729e+06   [time:  1.1e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 1]
+  >>>>>> min:    6.57613e+07   [time:  1.3e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 1]
+  >>>>>> min:    1.91437e+06   [time:  3.9e+01]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 1]
+  >>>>>> min:    1.96833e+08   [time:  3.2e+00]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 1]
+  >>>>>> min:    2.21149e+06   [time:  1.4e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 1]
+  >>>>>> min:    3.15980e+06   [time:  1.0e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 1]
+  >>>>>> min:    2.31871e+08   [time:  1.2e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 1]
+  >>>>>> min:    3.11346e+01   [time:  4.7e+01]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 1]
+  >>>>>> min:    2.24594e+02   [time:  2.6e+00]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 1]
+  >>>>>> min:    3.20232e+01   [time:  1.3e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 1]
+  >>>>>> min:    3.11856e+01   [time:  1.1e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 1]
+  >>>>>> min:    2.03733e+02   [time:  1.2e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 1]
+  >>>>>> min:    7.21304e+01   [time:  5.5e+01]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 1]
+  >>>>>> min:    1.01867e+02   [time:  3.5e+00]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 1]
+  >>>>>> min:    1.14266e+02   [time:  1.1e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 1]
+  >>>>>> min:    9.16992e+01   [time:  1.2e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 1]
+  >>>>>> min:    1.06610e+02   [time:  1.3e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 1]
+  >>>>>> min:    5.14719e+05   [time:  3.7e+01]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 1]
+  >>>>>> min:    1.18785e+06   [time:  3.7e+00]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 1]
+  >>>>>> min:    5.62507e+05   [time:  1.6e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 1]
+  >>>>>> min:    6.02059e+05   [time:  1.3e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 1]
+  >>>>>> min:    1.45795e+06   [time:  1.3e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 1]
+  >>>>>> min:    4.98614e+06   [time:  4.7e+01]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 1]
+  >>>>>> min:    2.54257e+12   [time:  5.9e+00]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 1]
+  >>>>>> min:    4.60067e+10   [time:  1.5e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 1]
+  >>>>>> min:    1.24810e+12   [time:  1.1e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 1]
+  >>>>>> min:    1.46933e+12   [time:  1.5e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 1]
+  >>>>>> min:    9.18917e+02   [time:  4.8e+01]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 1]
+  >>>>>> min:    3.54393e+03   [time:  6.8e+00]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 1]
+  >>>>>> min:    1.10340e+03   [time:  1.3e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 1]
+  >>>>>> min:    9.29684e+02   [time:  1.2e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 1]
+  >>>>>> min:    3.92813e+03   [time:  1.3e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 1]
+  >>>>>> min:    9.86250e+01   [time:  4.5e+01]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 1]
+  >>>>>> min:    1.15380e+02   [time:  3.5e+00]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 1]
+  >>>>>> min:    1.06596e+02   [time:  1.2e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 1]
+  >>>>>> min:    1.01694e+02   [time:  1.1e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 1]
+  >>>>>> min:    1.18940e+02   [time:  1.4e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 1]
+  >>>>>> min:   -3.84541e+02   [time:  4.7e+01]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 1]
+  >>>>>> min:   -1.63607e+02   [time:  4.2e+00]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 1]
+  >>>>>> min:   -1.91790e+02   [time:  1.3e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 1]
+  >>>>>> min:   -1.89864e+02   [time:  1.1e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 1]
+  >>>>>> min:   -1.40829e+02   [time:  1.3e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 1]
+  >>>>>> min:    3.15984e+02   [time:  4.1e+01]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 1]
+  >>>>>> min:    2.34434e+03   [time:  2.3e+00]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 1]
+  >>>>>> min:    3.24403e+02   [time:  1.2e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 1]
+  >>>>>> min:    3.16519e+02   [time:  1.3e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 1]
+  >>>>>> min:    2.12581e+03   [time:  1.3e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 1]
+  >>>>>> min:    1.55050e+05   [time:  4.0e+01]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 1]
+  >>>>>> min:    7.18627e+05   [time:  4.7e+00]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 1]
+  >>>>>> min:    1.57104e+05   [time:  1.5e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 1]
+  >>>>>> min:    1.55320e+05   [time:  1.2e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 1]
+  >>>>>> min:    1.00857e+06   [time:  1.2e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 1]
+  >>>>>> min:    7.84206e+04   [time:  1.2e+01]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 1]
+  >>>>>> min:    6.90136e+06   [time:  4.5e+00]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 1]
+  >>>>>> min:    1.21591e+05   [time:  1.6e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 1]
+  >>>>>> min:    1.75108e+07   [time:  1.2e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 1]
+  >>>>>> min:    1.01328e+07   [time:  1.7e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 1]
+  >>>>>> min:    3.19235e-01   [time:  4.5e+01]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 1]
+  >>>>>> min:    6.17710e-01   [time:  5.8e+00]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 1]
+  >>>>>> min:    3.65097e-01   [time:  1.4e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 1]
+  >>>>>> min:    3.22019e-01   [time:  1.2e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 1]
+  >>>>>> min:    6.30837e-01   [time:  1.5e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 2]
+  >>>>>> min:    6.75219e+01   [time:  4.4e+01]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 2]
+  >>>>>> min:    4.32017e+02   [time:  4.8e+00]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 2]
+  >>>>>> min:    3.55913e+02   [time:  1.3e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 2]
+  >>>>>> min:    3.99179e+02   [time:  1.2e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 2]
+  >>>>>> min:    4.44308e+02   [time:  1.4e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 2]
+  >>>>>> min:    1.45295e+06   [time:  1.1e+01]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 2]
+  >>>>>> min:    7.62691e+07   [time:  4.9e+00]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 2]
+  >>>>>> min:    1.46467e+06   [time:  1.4e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 2]
+  >>>>>> min:    1.54092e+06   [time:  1.2e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 2]
+  >>>>>> min:    7.63036e+07   [time:  1.3e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 2]
+  >>>>>> min:    1.87824e+06   [time:  4.5e+01]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 2]
+  >>>>>> min:    2.16448e+08   [time:  2.4e+00]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 2]
+  >>>>>> min:    2.36332e+06   [time:  1.5e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 2]
+  >>>>>> min:    3.16470e+06   [time:  1.2e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 2]
+  >>>>>> min:    2.83744e+08   [time:  1.4e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 2]
+  >>>>>> min:    3.11346e+01   [time:  5.1e+01]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 2]
+  >>>>>> min:    2.19203e+02   [time:  4.1e+00]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 2]
+  >>>>>> min:    3.19433e+01   [time:  1.2e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 2]
+  >>>>>> min:    3.11967e+01   [time:  1.2e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 2]
+  >>>>>> min:    2.19380e+02   [time:  1.2e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 2]
+  >>>>>> min:    6.79597e+01   [time:  2.1e+01]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 2]
+  >>>>>> min:    1.02610e+02   [time:  2.6e+00]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 2]
+  >>>>>> min:    1.15600e+02   [time:  1.2e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 2]
+  >>>>>> min:    9.31652e+01   [time:  1.2e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 2]
+  >>>>>> min:    1.07484e+02   [time:  1.5e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 2]
+  >>>>>> min:    5.11502e+05   [time:  5.0e+01]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 2]
+  >>>>>> min:    1.24165e+06   [time:  2.9e+00]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 2]
+  >>>>>> min:    5.33636e+05   [time:  1.7e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 2]
+  >>>>>> min:    5.98544e+05   [time:  1.4e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 2]
+  >>>>>> min:    1.60360e+06   [time:  1.6e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 2]
+  >>>>>> min:    4.98614e+06   [time:  4.8e+01]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 2]
+  >>>>>> min:    2.89596e+12   [time:  4.5e+00]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 2]
+  >>>>>> min:    3.24483e+10   [time:  1.6e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 2]
+  >>>>>> min:    1.27983e+12   [time:  1.2e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 2]
+  >>>>>> min:    1.71011e+12   [time:  1.7e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 2]
+  >>>>>> min:    9.18917e+02   [time:  5.3e+01]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 2]
+  >>>>>> min:    3.46299e+03   [time:  5.7e+00]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 2]
+  >>>>>> min:    1.09960e+03   [time:  1.3e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 2]
+  >>>>>> min:    9.32515e+02   [time:  1.2e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 2]
+  >>>>>> min:    3.60082e+03   [time:  1.3e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 2]
+  >>>>>> min:    9.87179e+01   [time:  4.6e+01]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 2]
+  >>>>>> min:    1.15109e+02   [time:  4.8e+00]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 2]
+  >>>>>> min:    1.05419e+02   [time:  1.4e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 2]
+  >>>>>> min:    1.01378e+02   [time:  1.2e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 2]
+  >>>>>> min:    1.19860e+02   [time:  1.3e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 2]
+  >>>>>> min:   -3.84541e+02   [time:  4.0e+01]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 2]
+  >>>>>> min:   -1.84805e+02   [time:  3.9e+00]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 2]
+  >>>>>> min:   -1.91790e+02   [time:  1.3e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 2]
+  >>>>>> min:   -1.89882e+02   [time:  1.2e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 2]
+  >>>>>> min:   -1.21990e+02   [time:  1.4e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 2]
+  >>>>>> min:    3.15984e+02   [time:  5.4e+01]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 2]
+  >>>>>> min:    2.28793e+03   [time:  3.0e+00]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 2]
+  >>>>>> min:    3.23817e+02   [time:  1.2e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 2]
+  >>>>>> min:    3.16635e+02   [time:  1.2e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 2]
+  >>>>>> min:    2.28988e+03   [time:  1.2e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 2]
+  >>>>>> min:    1.55050e+05   [time:  3.9e+01]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 2]
+  >>>>>> min:    7.70393e+05   [time:  2.9e+00]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 2]
+  >>>>>> min:    1.56942e+05   [time:  1.3e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 2]
+  >>>>>> min:    1.55542e+05   [time:  1.2e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 2]
+  >>>>>> min:    1.10399e+06   [time:  1.3e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 2]
+  >>>>>> min:    7.57525e+04   [time:  1.5e+01]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 2]
+  >>>>>> min:    8.95519e+06   [time:  4.8e+00]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 2]
+  >>>>>> min:    1.26996e+05   [time:  1.8e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 2]
+  >>>>>> min:    1.78697e+07   [time:  1.2e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 2]
+  >>>>>> min:    1.11196e+07   [time:  1.8e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 2]
+  >>>>>> min:    3.19235e-01   [time:  4.8e+01]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 2]
+  >>>>>> min:    6.14781e-01   [time:  6.6e+00]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 2]
+  >>>>>> min:    3.59806e-01   [time:  1.4e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 2]
+  >>>>>> min:    3.22744e-01   [time:  1.3e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 2]
+  >>>>>> min:    6.28691e-01   [time:  1.3e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 3]
+  >>>>>> min:    6.75219e+01   [time:  4.9e+01]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 3]
+  >>>>>> min:    4.25544e+02   [time:  3.8e+00]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 3]
+  >>>>>> min:    3.45869e+02   [time:  1.3e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 3]
+  >>>>>> min:    3.98741e+02   [time:  1.2e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 3]
+  >>>>>> min:    4.60843e+02   [time:  1.2e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 3]
+  >>>>>> min:    1.45295e+06   [time:  1.3e+01]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 3]
+  >>>>>> min:    6.91208e+07   [time:  4.7e+00]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 3]
+  >>>>>> min:    1.46092e+06   [time:  1.4e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 3]
+  >>>>>> min:    1.54091e+06   [time:  1.3e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 3]
+  >>>>>> min:    7.09016e+07   [time:  1.4e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 3]
+  >>>>>> min:    1.91880e+06   [time:  4.4e+01]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 3]
+  >>>>>> min:    1.76788e+08   [time:  4.8e+00]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 3]
+  >>>>>> min:    2.18081e+06   [time:  1.5e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 3]
+  >>>>>> min:    3.14917e+06   [time:  1.3e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 3]
+  >>>>>> min:    2.75597e+08   [time:  1.4e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 3]
+  >>>>>> min:    3.11346e+01   [time:  5.3e+01]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 3]
+  >>>>>> min:    2.08731e+02   [time:  4.2e+00]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 3]
+  >>>>>> min:    3.19122e+01   [time:  1.3e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 3]
+  >>>>>> min:    3.12047e+01   [time:  1.4e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 3]
+  >>>>>> min:    2.11508e+02   [time:  1.4e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 3]
+  >>>>>> min:    6.73221e+01   [time:  2.8e+01]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 3]
+  >>>>>> min:    1.03050e+02   [time:  3.8e+00]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 3]
+  >>>>>> min:    1.07032e+02   [time:  1.3e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 3]
+  >>>>>> min:    9.30721e+01   [time:  1.2e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 3]
+  >>>>>> min:    1.03543e+02   [time:  1.4e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 3]
+  >>>>>> min:    5.22224e+05   [time:  4.4e+01]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 3]
+  >>>>>> min:    1.14178e+06   [time:  5.2e+00]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 3]
+  >>>>>> min:    5.50903e+05   [time:  1.4e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 3]
+  >>>>>> min:    6.04627e+05   [time:  1.1e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 3]
+  >>>>>> min:    1.52629e+06   [time:  1.4e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 3]
+  >>>>>> min:    4.98614e+06   [time:  4.3e+01]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 3]
+  >>>>>> min:    2.91153e+12   [time:  3.5e+00]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 3]
+  >>>>>> min:    1.30048e+10   [time:  1.5e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 3]
+  >>>>>> min:    1.22769e+12   [time:  1.2e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 3]
+  >>>>>> min:    1.89383e+12   [time:  1.5e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 3]
+  >>>>>> min:    9.18917e+02   [time:  4.9e+01]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 3]
+  >>>>>> min:    3.51106e+03   [time:  6.2e+00]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 3]
+  >>>>>> min:    1.07757e+03   [time:  1.3e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 3]
+  >>>>>> min:    9.31970e+02   [time:  1.3e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 3]
+  >>>>>> min:    3.91454e+03   [time:  1.4e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 3]
+  >>>>>> min:    9.84902e+01   [time:  4.9e+01]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 3]
+  >>>>>> min:    1.15061e+02   [time:  3.4e+00]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 3]
+  >>>>>> min:    1.05723e+02   [time:  1.3e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 3]
+  >>>>>> min:    1.01540e+02   [time:  1.4e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 3]
+  >>>>>> min:    1.19519e+02   [time:  1.3e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 3]
+  >>>>>> min:   -3.84541e+02   [time:  4.6e+01]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 3]
+  >>>>>> min:   -1.90060e+02   [time:  5.7e+00]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 3]
+  >>>>>> min:   -1.91790e+02   [time:  1.3e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 3]
+  >>>>>> min:   -1.89872e+02   [time:  1.2e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 3]
+  >>>>>> min:   -1.37979e+02   [time:  1.4e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 3]
+  >>>>>> min:    3.15984e+02   [time:  5.3e+01]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 3]
+  >>>>>> min:    2.17791e+03   [time:  5.2e+00]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 3]
+  >>>>>> min:    3.24481e+02   [time:  1.3e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 3]
+  >>>>>> min:    3.16719e+02   [time:  1.2e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 3]
+  >>>>>> min:    2.20733e+03   [time:  1.4e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 3]
+  >>>>>> min:    1.55050e+05   [time:  5.0e+01]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 3]
+  >>>>>> min:    6.92939e+05   [time:  2.4e+00]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 3]
+  >>>>>> min:    1.56754e+05   [time:  1.3e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 3]
+  >>>>>> min:    1.55329e+05   [time:  1.2e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 3]
+  >>>>>> min:    9.09559e+05   [time:  1.3e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 3]
+  >>>>>> min:    8.55317e+04   [time:  1.4e+01]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 3]
+  >>>>>> min:    9.39060e+06   [time:  3.0e+00]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 3]
+  >>>>>> min:    4.29663e+05   [time:  1.9e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 3]
+  >>>>>> min:    1.71117e+07   [time:  1.2e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 3]
+  >>>>>> min:    1.04317e+07   [time:  1.8e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 3]
+  >>>>>> min:    3.19235e-01   [time:  3.9e+01]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 3]
+  >>>>>> min:    6.14610e-01   [time:  2.9e+00]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 3]
+  >>>>>> min:    3.65065e-01   [time:  1.5e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 3]
+  >>>>>> min:    3.22603e-01   [time:  1.2e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 3]
+  >>>>>> min:    6.47276e-01   [time:  1.3e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 4]
+  >>>>>> min:    6.75219e+01   [time:  4.5e+01]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 4]
+  >>>>>> min:    4.43899e+02   [time:  4.4e+00]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 4]
+  >>>>>> min:    3.58554e+02   [time:  1.4e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 4]
+  >>>>>> min:    3.98264e+02   [time:  1.2e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 4]
+  >>>>>> min:    5.22103e+02   [time:  1.3e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 4]
+  >>>>>> min:    1.45295e+06   [time:  8.5e+00]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 4]
+  >>>>>> min:    8.55248e+07   [time:  6.7e+00]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 4]
+  >>>>>> min:    1.50452e+06   [time:  1.6e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 4]
+  >>>>>> min:    1.53383e+06   [time:  1.2e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 4]
+  >>>>>> min:    5.97915e+07   [time:  1.5e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 4]
+  >>>>>> min:    1.88485e+06   [time:  4.5e+01]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 4]
+  >>>>>> min:    2.11546e+08   [time:  4.5e+00]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 4]
+  >>>>>> min:    2.53144e+06   [time:  1.6e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 4]
+  >>>>>> min:    3.25499e+06   [time:  1.1e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 4]
+  >>>>>> min:    2.55204e+08   [time:  1.3e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 4]
+  >>>>>> min:    3.11346e+01   [time:  3.8e+01]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 4]
+  >>>>>> min:    2.32097e+02   [time:  2.4e+00]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 4]
+  >>>>>> min:    3.18729e+01   [time:  1.3e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 4]
+  >>>>>> min:    3.11725e+01   [time:  1.3e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 4]
+  >>>>>> min:    1.94312e+02   [time:  1.4e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 4]
+  >>>>>> min:    7.20421e+01   [time:  2.0e+01]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 4]
+  >>>>>> min:    1.04168e+02   [time:  3.2e+00]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 4]
+  >>>>>> min:    1.13903e+02   [time:  1.2e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 4]
+  >>>>>> min:    9.38759e+01   [time:  1.1e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 4]
+  >>>>>> min:    1.10296e+02   [time:  1.4e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 4]
+  >>>>>> min:    5.13492e+05   [time:  4.5e+01]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 4]
+  >>>>>> min:    1.22183e+06   [time:  6.2e+00]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 4]
+  >>>>>> min:    5.93174e+05   [time:  1.3e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 4]
+  >>>>>> min:    5.68300e+05   [time:  1.2e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 4]
+  >>>>>> min:    1.53076e+06   [time:  1.4e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 4]
+  >>>>>> min:    4.98614e+06   [time:  5.0e+01]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 4]
+  >>>>>> min:    3.15202e+12   [time:  6.6e+00]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 4]
+  >>>>>> min:    9.63061e+09   [time:  1.5e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 4]
+  >>>>>> min:    1.27939e+12   [time:  1.2e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 4]
+  >>>>>> min:    1.91708e+12   [time:  1.8e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 4]
+  >>>>>> min:    9.18917e+02   [time:  4.3e+01]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 4]
+  >>>>>> min:    3.67001e+03   [time:  5.0e+00]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 4]
+  >>>>>> min:    1.09549e+03   [time:  1.2e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 4]
+  >>>>>> min:    9.27292e+02   [time:  1.2e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 4]
+  >>>>>> min:    3.54783e+03   [time:  1.4e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 4]
+  >>>>>> min:    9.87417e+01   [time:  4.9e+01]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 4]
+  >>>>>> min:    1.15139e+02   [time:  5.7e+00]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 4]
+  >>>>>> min:    1.06783e+02   [time:  1.3e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 4]
+  >>>>>> min:    1.01695e+02   [time:  1.2e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 4]
+  >>>>>> min:    1.20517e+02   [time:  1.4e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 4]
+  >>>>>> min:   -3.84541e+02   [time:  4.2e+01]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 4]
+  >>>>>> min:   -1.87841e+02   [time:  2.8e+00]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 4]
+  >>>>>> min:   -1.91790e+02   [time:  1.2e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 4]
+  >>>>>> min:   -1.91790e+02   [time:  1.2e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 4]
+  >>>>>> min:   -1.42077e+02   [time:  1.3e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 4]
+  >>>>>> min:    3.15984e+02   [time:  5.0e+01]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 4]
+  >>>>>> min:    2.42321e+03   [time:  6.5e+00]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 4]
+  >>>>>> min:    3.23995e+02   [time:  1.2e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 4]
+  >>>>>> min:    3.16382e+02   [time:  1.3e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 4]
+  >>>>>> min:    2.02703e+03   [time:  1.5e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 4]
+  >>>>>> min:    1.55050e+05   [time:  5.0e+01]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 4]
+  >>>>>> min:    7.66493e+05   [time:  5.2e+00]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 4]
+  >>>>>> min:    1.59273e+05   [time:  1.3e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 4]
+  >>>>>> min:    1.55439e+05   [time:  1.2e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 4]
+  >>>>>> min:    1.01269e+06   [time:  1.2e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 4]
+  >>>>>> min:    5.92444e+04   [time:  1.4e+01]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 4]
+  >>>>>> min:    9.45101e+06   [time:  8.1e+00]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 4]
+  >>>>>> min:    1.19007e+06   [time:  1.6e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 4]
+  >>>>>> min:    1.81629e+07   [time:  1.1e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 4]
+  >>>>>> min:    7.23654e+06   [time:  2.0e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 4]
+  >>>>>> min:    3.19235e-01   [time:  4.7e+01]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 4]
+  >>>>>> min:    6.32666e-01   [time:  5.5e+00]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 4]
+  >>>>>> min:    3.63084e-01   [time:  1.3e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 4]
+  >>>>>> min:    3.21400e-01   [time:  1.3e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 4]
+  >>>>>> min:    6.36960e-01   [time:  1.4e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 5]
+  >>>>>> min:    6.75219e+01   [time:  5.0e+01]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 5]
+  >>>>>> min:    4.15503e+02   [time:  5.0e+00]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 5]
+  >>>>>> min:    3.91288e+02   [time:  1.4e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 5]
+  >>>>>> min:    3.98285e+02   [time:  1.3e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 5]
+  >>>>>> min:    4.62601e+02   [time:  1.3e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 5]
+  >>>>>> min:    1.45295e+06   [time:  1.5e+01]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 5]
+  >>>>>> min:    6.79402e+07   [time:  5.5e+00]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 5]
+  >>>>>> min:    1.46539e+06   [time:  1.5e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 5]
+  >>>>>> min:    1.53795e+06   [time:  1.1e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 5]
+  >>>>>> min:    7.31155e+07   [time:  1.3e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 5]
+  >>>>>> min:    1.85961e+06   [time:  4.1e+01]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 5]
+  >>>>>> min:    1.88715e+08   [time:  4.0e+00]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 5]
+  >>>>>> min:    2.23101e+06   [time:  1.4e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 5]
+  >>>>>> min:    3.24123e+06   [time:  1.2e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 5]
+  >>>>>> min:    2.69542e+08   [time:  1.3e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 5]
+  >>>>>> min:    3.11346e+01   [time:  5.7e+01]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 5]
+  >>>>>> min:    2.06941e+02   [time:  3.1e+00]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 5]
+  >>>>>> min:    3.20061e+01   [time:  1.3e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 5]
+  >>>>>> min:    3.12013e+01   [time:  1.4e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 5]
+  >>>>>> min:    2.14769e+02   [time:  1.5e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 5]
+  >>>>>> min:    7.02997e+01   [time:  2.7e+01]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 5]
+  >>>>>> min:    1.03765e+02   [time:  2.5e+00]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 5]
+  >>>>>> min:    1.16920e+02   [time:  1.3e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 5]
+  >>>>>> min:    9.44658e+01   [time:  1.3e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 5]
+  >>>>>> min:    1.04356e+02   [time:  1.8e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 5]
+  >>>>>> min:    5.22833e+05   [time:  5.0e+01]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 5]
+  >>>>>> min:    1.15907e+06   [time:  6.2e+00]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 5]
+  >>>>>> min:    5.84955e+05   [time:  1.4e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 5]
+  >>>>>> min:    5.79768e+05   [time:  1.3e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 5]
+  >>>>>> min:    1.51960e+06   [time:  1.4e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 5]
+  >>>>>> min:    4.98614e+06   [time:  5.0e+01]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 5]
+  >>>>>> min:    2.71999e+12   [time:  5.1e+00]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 5]
+  >>>>>> min:    2.86197e+10   [time:  1.7e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 5]
+  >>>>>> min:    1.29358e+12   [time:  1.4e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 5]
+  >>>>>> min:    1.86053e+12   [time:  1.9e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 5]
+  >>>>>> min:    9.18917e+02   [time:  5.4e+01]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 5]
+  >>>>>> min:    3.45297e+03   [time:  5.9e+00]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 5]
+  >>>>>> min:    1.09742e+03   [time:  1.3e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 5]
+  >>>>>> min:    9.32506e+02   [time:  1.3e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 5]
+  >>>>>> min:    3.70923e+03   [time:  1.4e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 5]
+  >>>>>> min:    9.89398e+01   [time:  5.1e+01]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 5]
+  >>>>>> min:    1.14827e+02   [time:  6.7e+00]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 5]
+  >>>>>> min:    1.05626e+02   [time:  1.2e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 5]
+  >>>>>> min:    1.01751e+02   [time:  1.3e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 5]
+  >>>>>> min:    1.20446e+02   [time:  1.4e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 5]
+  >>>>>> min:   -3.84541e+02   [time:  4.6e+01]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 5]
+  >>>>>> min:   -1.73552e+02   [time:  2.4e+00]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 5]
+  >>>>>> min:   -1.91790e+02   [time:  1.4e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 5]
+  >>>>>> min:   -1.87946e+02   [time:  1.3e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 5]
+  >>>>>> min:   -1.38249e+02   [time:  1.3e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 5]
+  >>>>>> min:    3.15984e+02   [time:  4.5e+01]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 5]
+  >>>>>> min:    2.15945e+03   [time:  4.1e+00]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 5]
+  >>>>>> min:    3.24540e+02   [time:  1.2e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 5]
+  >>>>>> min:    3.16683e+02   [time:  1.3e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 5]
+  >>>>>> min:    2.24153e+03   [time:  1.4e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 5]
+  >>>>>> min:    1.55050e+05   [time:  5.3e+01]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 5]
+  >>>>>> min:    7.10633e+05   [time:  4.6e+00]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 5]
+  >>>>>> min:    1.57344e+05   [time:  1.2e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 5]
+  >>>>>> min:    1.55492e+05   [time:  1.3e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 5]
+  >>>>>> min:    9.86373e+05   [time:  1.4e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 5]
+  >>>>>> min:    8.98705e+04   [time:  1.8e+01]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 5]
+  >>>>>> min:    8.72137e+06   [time:  6.0e+00]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 5]
+  >>>>>> min:    2.52589e+05   [time:  1.7e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 5]
+  >>>>>> min:    1.83856e+07   [time:  1.2e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 5]
+  >>>>>> min:    1.02540e+07   [time:  2.1e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 5]
+  >>>>>> min:    3.19235e-01   [time:  5.3e+01]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 5]
+  >>>>>> min:    6.08623e-01   [time:  3.5e+00]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 5]
+  >>>>>> min:    3.63548e-01   [time:  1.3e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 5]
+  >>>>>> min:    3.22739e-01   [time:  1.3e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 5]
+  >>>>>> min:    6.21406e-01   [time:  1.5e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 6]
+  >>>>>> min:    6.75219e+01   [time:  5.2e+01]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 6]
+  >>>>>> min:    4.58983e+02   [time:  3.3e+00]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 6]
+  >>>>>> min:    3.48933e+02   [time:  1.2e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 6]
+  >>>>>> min:    3.98723e+02   [time:  1.3e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 6]
+  >>>>>> min:    4.87264e+02   [time:  1.1e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 6]
+  >>>>>> min:    1.45295e+06   [time:  1.4e+01]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 6]
+  >>>>>> min:    7.78960e+07   [time:  4.1e+00]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 6]
+  >>>>>> min:    1.48003e+06   [time:  1.7e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 6]
+  >>>>>> min:    1.53825e+06   [time:  1.2e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 6]
+  >>>>>> min:    5.22647e+07   [time:  1.5e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 6]
+  >>>>>> min:    1.88310e+06   [time:  4.3e+01]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 6]
+  >>>>>> min:    1.95881e+08   [time:  3.2e+00]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 6]
+  >>>>>> min:    2.52060e+06   [time:  1.4e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 6]
+  >>>>>> min:    3.22737e+06   [time:  1.2e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 6]
+  >>>>>> min:    2.35396e+08   [time:  1.4e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 6]
+  >>>>>> min:    3.11346e+01   [time:  5.2e+01]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 6]
+  >>>>>> min:    2.21569e+02   [time:  3.6e+00]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 6]
+  >>>>>> min:    3.19021e+01   [time:  1.3e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 6]
+  >>>>>> min:    3.11911e+01   [time:  1.2e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 6]
+  >>>>>> min:    1.81736e+02   [time:  1.3e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 6]
+  >>>>>> min:    7.06589e+01   [time:  2.2e+01]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 6]
+  >>>>>> min:    1.03070e+02   [time:  5.2e+00]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 6]
+  >>>>>> min:    1.16145e+02   [time:  1.2e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 6]
+  >>>>>> min:    9.32955e+01   [time:  1.3e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 6]
+  >>>>>> min:    1.04402e+02   [time:  1.4e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 6]
+  >>>>>> min:    5.22048e+05   [time:  4.2e+01]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 6]
+  >>>>>> min:    1.18119e+06   [time:  2.7e+00]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 6]
+  >>>>>> min:    5.78754e+05   [time:  1.3e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 6]
+  >>>>>> min:    5.97689e+05   [time:  1.2e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 6]
+  >>>>>> min:    1.37148e+06   [time:  1.4e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 6]
+  >>>>>> min:    4.98614e+06   [time:  4.3e+01]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 6]
+  >>>>>> min:    2.93331e+12   [time:  4.1e+00]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 6]
+  >>>>>> min:    2.86045e+11   [time:  1.6e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 6]
+  >>>>>> min:    1.28040e+12   [time:  1.2e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 6]
+  >>>>>> min:    1.54875e+12   [time:  1.4e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 6]
+  >>>>>> min:    9.18917e+02   [time:  4.9e+01]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 6]
+  >>>>>> min:    3.70560e+03   [time:  5.2e+00]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 6]
+  >>>>>> min:    1.09329e+03   [time:  1.3e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 6]
+  >>>>>> min:    9.31305e+02   [time:  1.2e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 6]
+  >>>>>> min:    3.64220e+03   [time:  1.4e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 6]
+  >>>>>> min:    9.84772e+01   [time:  4.7e+01]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 6]
+  >>>>>> min:    1.15040e+02   [time:  3.4e+00]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 6]
+  >>>>>> min:    1.06267e+02   [time:  1.2e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 6]
+  >>>>>> min:    1.01537e+02   [time:  1.3e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 6]
+  >>>>>> min:    1.19834e+02   [time:  1.3e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 6]
+  >>>>>> min:   -3.84541e+02   [time:  4.3e+01]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 6]
+  >>>>>> min:   -1.62127e+02   [time:  4.1e+00]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 6]
+  >>>>>> min:   -1.91790e+02   [time:  1.3e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 6]
+  >>>>>> min:   -1.87959e+02   [time:  1.3e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 6]
+  >>>>>> min:   -1.43135e+02   [time:  1.3e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 6]
+  >>>>>> min:    3.15984e+02   [time:  4.9e+01]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 6]
+  >>>>>> min:    2.31243e+03   [time:  5.2e+00]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 6]
+  >>>>>> min:    3.24182e+02   [time:  1.3e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 6]
+  >>>>>> min:    3.16576e+02   [time:  1.4e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 6]
+  >>>>>> min:    1.89515e+03   [time:  1.4e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 6]
+  >>>>>> min:    1.55050e+05   [time:  4.8e+01]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 6]
+  >>>>>> min:    7.29546e+05   [time:  5.2e+00]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 6]
+  >>>>>> min:    1.56916e+05   [time:  1.3e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 6]
+  >>>>>> min:    1.55450e+05   [time:  1.3e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 6]
+  >>>>>> min:    1.08414e+06   [time:  1.4e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 6]
+  >>>>>> min:    8.64345e+04   [time:  1.8e+01]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 6]
+  >>>>>> min:    8.79104e+06   [time:  3.2e+00]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 6]
+  >>>>>> min:    1.08135e+05   [time:  1.6e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 6]
+  >>>>>> min:    1.81187e+07   [time:  1.4e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 6]
+  >>>>>> min:    9.42982e+06   [time:  1.6e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 6]
+  >>>>>> min:    3.19235e-01   [time:  5.6e+01]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 6]
+  >>>>>> min:    6.25377e-01   [time:  5.3e+00]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 6]
+  >>>>>> min:    3.61983e-01   [time:  1.3e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 6]
+  >>>>>> min:    3.22433e-01   [time:  1.3e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 6]
+  >>>>>> min:    6.51092e-01   [time:  1.3e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 7]
+  >>>>>> min:    6.75219e+01   [time:  5.1e+01]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 7]
+  >>>>>> min:    4.50684e+02   [time:  5.0e+00]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 7]
+  >>>>>> min:    3.89657e+02   [time:  1.3e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 7]
+  >>>>>> min:    3.99190e+02   [time:  1.2e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 7]
+  >>>>>> min:    4.65599e+02   [time:  1.2e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 7]
+  >>>>>> min:    1.45295e+06   [time:  8.1e+00]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 7]
+  >>>>>> min:    7.99596e+07   [time:  4.4e+00]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 7]
+  >>>>>> min:    1.47333e+06   [time:  1.6e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 7]
+  >>>>>> min:    1.53883e+06   [time:  1.2e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 7]
+  >>>>>> min:    7.36745e+07   [time:  1.5e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 7]
+  >>>>>> min:    1.91157e+06   [time:  5.2e+01]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 7]
+  >>>>>> min:    1.86779e+08   [time:  2.6e+00]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 7]
+  >>>>>> min:    2.21034e+06   [time:  1.4e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 7]
+  >>>>>> min:    3.11858e+06   [time:  1.1e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 7]
+  >>>>>> min:    2.88060e+08   [time:  1.2e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 7]
+  >>>>>> min:    3.11346e+01   [time:  4.7e+01]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 7]
+  >>>>>> min:    2.24385e+02   [time:  4.3e+00]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 7]
+  >>>>>> min:    3.18783e+01   [time:  1.2e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 7]
+  >>>>>> min:    3.11794e+01   [time:  1.2e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 7]
+  >>>>>> min:    2.15585e+02   [time:  1.3e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 7]
+  >>>>>> min:    6.93614e+01   [time:  3.9e+01]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 7]
+  >>>>>> min:    1.00147e+02   [time:  3.9e+00]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 7]
+  >>>>>> min:    1.13014e+02   [time:  1.3e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 7]
+  >>>>>> min:    8.94492e+01   [time:  1.2e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 7]
+  >>>>>> min:    1.07374e+02   [time:  1.6e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 7]
+  >>>>>> min:    5.15201e+05   [time:  4.8e+01]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 7]
+  >>>>>> min:    1.17128e+06   [time:  4.0e+00]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 7]
+  >>>>>> min:    5.50826e+05   [time:  1.5e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 7]
+  >>>>>> min:    6.04057e+05   [time:  1.3e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 7]
+  >>>>>> min:    1.54282e+06   [time:  1.4e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 7]
+  >>>>>> min:    4.98614e+06   [time:  4.5e+01]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 7]
+  >>>>>> min:    3.70213e+12   [time:  5.2e+00]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 7]
+  >>>>>> min:    5.97808e+10   [time:  1.7e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 7]
+  >>>>>> min:    1.22005e+12   [time:  1.2e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 7]
+  >>>>>> min:    1.76337e+12   [time:  1.6e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 7]
+  >>>>>> min:    9.18917e+02   [time:  4.1e+01]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 7]
+  >>>>>> min:    3.77643e+03   [time:  5.5e+00]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 7]
+  >>>>>> min:    1.08443e+03   [time:  1.3e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 7]
+  >>>>>> min:    9.30172e+02   [time:  1.2e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 7]
+  >>>>>> min:    3.97773e+03   [time:  1.5e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 7]
+  >>>>>> min:    9.86759e+01   [time:  4.1e+01]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 7]
+  >>>>>> min:    1.14844e+02   [time:  5.2e+00]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 7]
+  >>>>>> min:    1.06343e+02   [time:  1.1e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 7]
+  >>>>>> min:    1.01791e+02   [time:  1.3e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 7]
+  >>>>>> min:    1.20060e+02   [time:  1.3e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 7]
+  >>>>>> min:   -3.84541e+02   [time:  4.7e+01]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 7]
+  >>>>>> min:   -1.89742e+02   [time:  5.7e+00]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 7]
+  >>>>>> min:   -1.91790e+02   [time:  1.4e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 7]
+  >>>>>> min:   -1.86028e+02   [time:  1.4e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 7]
+  >>>>>> min:   -1.46531e+02   [time:  1.4e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 7]
+  >>>>>> min:    3.15984e+02   [time:  4.1e+01]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 7]
+  >>>>>> min:    2.34213e+03   [time:  2.3e+00]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 7]
+  >>>>>> min:    3.24044e+02   [time:  1.3e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 7]
+  >>>>>> min:    3.16454e+02   [time:  1.2e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 7]
+  >>>>>> min:    2.25008e+03   [time:  1.3e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 7]
+  >>>>>> min:    1.55050e+05   [time:  4.7e+01]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 7]
+  >>>>>> min:    7.26912e+05   [time:  2.4e+00]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 7]
+  >>>>>> min:    1.56759e+05   [time:  1.1e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 7]
+  >>>>>> min:    1.55498e+05   [time:  1.1e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 7]
+  >>>>>> min:    1.08615e+06   [time:  1.1e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 7]
+  >>>>>> min:    8.46903e+04   [time:  1.1e+01]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 7]
+  >>>>>> min:    1.31507e+07   [time:  4.0e+00]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 7]
+  >>>>>> min:    8.73728e+04   [time:  1.4e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 7]
+  >>>>>> min:    1.69222e+07   [time:  1.3e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 7]
+  >>>>>> min:    1.37424e+07   [time:  1.8e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 7]
+  >>>>>> min:    3.19235e-01   [time:  4.6e+01]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 7]
+  >>>>>> min:    6.29032e-01   [time:  4.5e+00]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 7]
+  >>>>>> min:    3.61771e-01   [time:  1.3e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 7]
+  >>>>>> min:    3.22136e-01   [time:  1.2e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 7]
+  >>>>>> min:    6.34763e-01   [time:  1.5e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 8]
+  >>>>>> min:    6.75219e+01   [time:  4.5e+01]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 8]
+  >>>>>> min:    4.64784e+02   [time:  4.5e+00]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 8]
+  >>>>>> min:    3.92059e+02   [time:  1.5e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 8]
+  >>>>>> min:    3.97899e+02   [time:  1.4e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 8]
+  >>>>>> min:    4.71161e+02   [time:  1.4e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 8]
+  >>>>>> min:    1.45295e+06   [time:  1.2e+01]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 8]
+  >>>>>> min:    8.17511e+07   [time:  3.3e+00]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 8]
+  >>>>>> min:    1.47027e+06   [time:  1.4e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 8]
+  >>>>>> min:    1.53278e+06   [time:  1.1e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 8]
+  >>>>>> min:    7.71618e+07   [time:  1.4e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 8]
+  >>>>>> min:    1.86976e+06   [time:  4.3e+01]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 8]
+  >>>>>> min:    2.11841e+08   [time:  4.9e+00]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 8]
+  >>>>>> min:    2.15754e+06   [time:  1.4e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 8]
+  >>>>>> min:    3.17108e+06   [time:  1.2e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 8]
+  >>>>>> min:    2.82057e+08   [time:  1.4e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 8]
+  >>>>>> min:    3.11346e+01   [time:  4.0e+01]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 8]
+  >>>>>> min:    2.26907e+02   [time:  2.5e+00]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 8]
+  >>>>>> min:    3.18966e+01   [time:  1.5e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 8]
+  >>>>>> min:    3.12081e+01   [time:  1.3e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 8]
+  >>>>>> min:    2.20605e+02   [time:  1.5e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 8]
+  >>>>>> min:    7.25911e+01   [time:  4.7e+01]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 8]
+  >>>>>> min:    1.01667e+02   [time:  3.4e+00]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 8]
+  >>>>>> min:    1.12641e+02   [time:  1.3e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 8]
+  >>>>>> min:    9.69679e+01   [time:  1.3e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 8]
+  >>>>>> min:    1.05491e+02   [time:  1.6e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 8]
+  >>>>>> min:    5.16552e+05   [time:  5.1e+01]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 8]
+  >>>>>> min:    1.22480e+06   [time:  5.2e+00]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 8]
+  >>>>>> min:    6.00783e+05   [time:  1.5e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 8]
+  >>>>>> min:    5.98303e+05   [time:  1.2e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 8]
+  >>>>>> min:    1.45155e+06   [time:  1.5e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 8]
+  >>>>>> min:    4.98614e+06   [time:  4.8e+01]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 8]
+  >>>>>> min:    3.19680e+12   [time:  3.6e+00]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 8]
+  >>>>>> min:    4.71061e+09   [time:  1.6e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 8]
+  >>>>>> min:    1.27964e+12   [time:  1.2e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 8]
+  >>>>>> min:    1.94059e+12   [time:  1.8e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 8]
+  >>>>>> min:    9.18917e+02   [time:  4.9e+01]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 8]
+  >>>>>> min:    3.75240e+03   [time:  5.0e+00]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 8]
+  >>>>>> min:    1.08513e+03   [time:  1.3e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 8]
+  >>>>>> min:    9.35103e+02   [time:  1.3e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 8]
+  >>>>>> min:    3.71117e+03   [time:  1.4e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 8]
+  >>>>>> min:    9.84944e+01   [time:  4.7e+01]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 8]
+  >>>>>> min:    1.14810e+02   [time:  5.5e+00]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 8]
+  >>>>>> min:    1.05490e+02   [time:  1.3e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 8]
+  >>>>>> min:    1.01523e+02   [time:  1.3e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 8]
+  >>>>>> min:    1.18867e+02   [time:  1.4e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 8]
+  >>>>>> min:   -3.84541e+02   [time:  4.8e+01]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 8]
+  >>>>>> min:   -1.77506e+02   [time:  4.3e+00]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 8]
+  >>>>>> min:   -1.91790e+02   [time:  1.4e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 8]
+  >>>>>> min:   -1.91790e+02   [time:  1.3e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 8]
+  >>>>>> min:   -1.39700e+02   [time:  1.4e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 8]
+  >>>>>> min:    3.15984e+02   [time:  4.7e+01]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 8]
+  >>>>>> min:    2.36874e+03   [time:  4.0e+00]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 8]
+  >>>>>> min:    3.24203e+02   [time:  1.3e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 8]
+  >>>>>> min:    3.16755e+02   [time:  1.2e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 8]
+  >>>>>> min:    2.30272e+03   [time:  1.5e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 8]
+  >>>>>> min:    1.55050e+05   [time:  4.8e+01]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 8]
+  >>>>>> min:    7.75552e+05   [time:  2.4e+00]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 8]
+  >>>>>> min:    1.57110e+05   [time:  1.3e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 8]
+  >>>>>> min:    1.55290e+05   [time:  1.3e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 8]
+  >>>>>> min:    9.98717e+05   [time:  1.3e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 8]
+  >>>>>> min:    9.20404e+04   [time:  1.1e+01]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 8]
+  >>>>>> min:    1.02302e+07   [time:  7.4e+00]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 8]
+  >>>>>> min:    6.11854e+04   [time:  1.7e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 8]
+  >>>>>> min:    1.77312e+07   [time:  1.2e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 8]
+  >>>>>> min:    8.57579e+06   [time:  1.9e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 8]
+  >>>>>> min:    3.19235e-01   [time:  4.7e+01]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 8]
+  >>>>>> min:    6.26607e-01   [time:  3.8e+00]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 8]
+  >>>>>> min:    3.62778e-01   [time:  1.3e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 8]
+  >>>>>> min:    3.23417e-01   [time:  1.3e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 8]
+  >>>>>> min:    6.25474e-01   [time:  1.3e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 9]
+  >>>>>> min:    6.75219e+01   [time:  5.0e+01]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 9]
+  >>>>>> min:    4.64627e+02   [time:  2.8e+00]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 9]
+  >>>>>> min:    3.91625e+02   [time:  1.3e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 9]
+  >>>>>> min:    3.98774e+02   [time:  1.3e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 9]
+  >>>>>> min:    5.04661e+02   [time:  1.3e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 9]
+  >>>>>> min:    1.45295e+06   [time:  1.1e+01]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 9]
+  >>>>>> min:    7.88543e+07   [time:  3.9e+00]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 9]
+  >>>>>> min:    1.48936e+06   [time:  1.7e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 9]
+  >>>>>> min:    1.53709e+06   [time:  1.1e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 9]
+  >>>>>> min:    6.28588e+07   [time:  1.4e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 9]
+  >>>>>> min:    1.90146e+06   [time:  4.9e+01]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 9]
+  >>>>>> min:    2.09792e+08   [time:  3.0e+00]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 9]
+  >>>>>> min:    2.31214e+06   [time:  1.6e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 9]
+  >>>>>> min:    3.23894e+06   [time:  1.2e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 9]
+  >>>>>> min:    2.61241e+08   [time:  1.3e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 9]
+  >>>>>> min:    3.11346e+01   [time:  5.4e+01]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 9]
+  >>>>>> min:    2.22819e+02   [time:  3.0e+00]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 9]
+  >>>>>> min:    3.18954e+01   [time:  1.2e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 9]
+  >>>>>> min:    3.11917e+01   [time:  1.4e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 9]
+  >>>>>> min:    1.99209e+02   [time:  1.4e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 9]
+  >>>>>> min:    6.68425e+01   [time:  2.7e+01]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 9]
+  >>>>>> min:    1.01991e+02   [time:  5.3e+00]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 9]
+  >>>>>> min:    1.14943e+02   [time:  1.3e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 9]
+  >>>>>> min:    9.05642e+01   [time:  1.3e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 9]
+  >>>>>> min:    1.07281e+02   [time:  1.5e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 9]
+  >>>>>> min:    5.14470e+05   [time:  5.0e+01]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 9]
+  >>>>>> min:    1.20079e+06   [time:  3.0e+00]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 9]
+  >>>>>> min:    5.44306e+05   [time:  1.5e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 9]
+  >>>>>> min:    5.99551e+05   [time:  1.2e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 9]
+  >>>>>> min:    1.51499e+06   [time:  1.4e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 9]
+  >>>>>> min:    4.98614e+06   [time:  4.8e+01]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 9]
+  >>>>>> min:    2.85412e+12   [time:  3.3e+00]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 9]
+  >>>>>> min:    2.42418e+11   [time:  1.9e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 9]
+  >>>>>> min:    1.22087e+12   [time:  1.2e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 9]
+  >>>>>> min:    1.73771e+12   [time:  1.9e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 9]
+  >>>>>> min:    9.18917e+02   [time:  5.2e+01]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 9]
+  >>>>>> min:    3.57569e+03   [time:  4.3e+00]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 9]
+  >>>>>> min:    1.09009e+03   [time:  1.3e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 9]
+  >>>>>> min:    9.30535e+02   [time:  1.3e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 9]
+  >>>>>> min:    3.32946e+03   [time:  1.5e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 9]
+  >>>>>> min:    9.88843e+01   [time:  4.8e+01]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 9]
+  >>>>>> min:    1.14661e+02   [time:  3.1e+00]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 9]
+  >>>>>> min:    1.05381e+02   [time:  1.3e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 9]
+  >>>>>> min:    1.01440e+02   [time:  1.3e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 9]
+  >>>>>> min:    1.20609e+02   [time:  1.5e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 9]
+  >>>>>> min:   -3.84541e+02   [time:  4.9e+01]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 9]
+  >>>>>> min:   -1.62487e+02   [time:  5.8e+00]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 9]
+  >>>>>> min:   -1.91790e+02   [time:  1.3e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 9]
+  >>>>>> min:   -1.82197e+02   [time:  1.2e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 9]
+  >>>>>> min:   -1.26532e+02   [time:  1.4e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 9]
+  >>>>>> min:    3.15984e+02   [time:  5.0e+01]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 9]
+  >>>>>> min:    2.32588e+03   [time:  4.3e+00]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 9]
+  >>>>>> min:    3.24415e+02   [time:  1.2e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 9]
+  >>>>>> min:    3.16583e+02   [time:  1.3e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 9]
+  >>>>>> min:    2.07837e+03   [time:  1.4e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 9]
+  >>>>>> min:    1.55050e+05   [time:  5.2e+01]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 9]
+  >>>>>> min:    7.43487e+05   [time:  4.0e+00]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 9]
+  >>>>>> min:    1.56500e+05   [time:  1.3e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 9]
+  >>>>>> min:    1.55377e+05   [time:  1.2e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 9]
+  >>>>>> min:    9.90060e+05   [time:  1.4e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 9]
+  >>>>>> min:    1.42469e+05   [time:  1.2e+01]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 9]
+  >>>>>> min:    7.90963e+06   [time:  3.6e+00]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 9]
+  >>>>>> min:    1.44564e+05   [time:  1.7e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 9]
+  >>>>>> min:    1.74446e+07   [time:  1.2e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 9]
+  >>>>>> min:    8.52502e+06   [time:  2.0e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 9]
+  >>>>>> min:    3.19235e-01   [time:  5.8e+01]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 9]
+  >>>>>> min:    6.21395e-01   [time:  5.6e+00]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 9]
+  >>>>>> min:    3.66122e-01   [time:  1.3e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 9]
+  >>>>>> min:    3.22234e-01   [time:  1.3e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 9]
+  >>>>>> min:    6.42566e-01   [time:  1.5e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 10]
+  >>>>>> min:    6.75219e+01   [time:  4.5e+01]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 10]
+  >>>>>> min:    4.68530e+02   [time:  5.4e+00]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 10]
+  >>>>>> min:    3.27342e+02   [time:  1.3e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 10]
+  >>>>>> min:    3.98697e+02   [time:  1.4e+02]
+
+- BM   > FuncAlpine            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 10]
+  >>>>>> min:    4.68665e+02   [time:  1.4e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 10]
+  >>>>>> min:    1.45295e+06   [time:  1.2e+01]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 10]
+  >>>>>> min:    7.66054e+07   [time:  2.4e+00]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 10]
+  >>>>>> min:    1.48942e+06   [time:  1.9e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 10]
+  >>>>>> min:    1.53331e+06   [time:  1.1e+02]
+
+- BM   > FuncChung             [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 10]
+  >>>>>> min:    8.65065e+07   [time:  1.5e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 10]
+  >>>>>> min:    1.88392e+06   [time:  4.7e+01]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 10]
+  >>>>>> min:    1.98989e+08   [time:  2.6e+00]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 10]
+  >>>>>> min:    2.61896e+06   [time:  1.4e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 10]
+  >>>>>> min:    3.24279e+06   [time:  1.1e+02]
+
+- BM   > FuncDixon             [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 10]
+  >>>>>> min:    3.00599e+08   [time:  1.4e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 10]
+  >>>>>> min:    3.11346e+01   [time:  4.8e+01]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 10]
+  >>>>>> min:    2.19668e+02   [time:  5.3e+00]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 10]
+  >>>>>> min:    3.19142e+01   [time:  1.3e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 10]
+  >>>>>> min:    3.11903e+01   [time:  1.3e+02]
+
+- BM   > FuncGriewank          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 10]
+  >>>>>> min:    2.33522e+02   [time:  1.4e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 10]
+  >>>>>> min:    6.77375e+01   [time:  5.4e+01]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 10]
+  >>>>>> min:    1.00379e+02   [time:  2.9e+00]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 10]
+  >>>>>> min:    1.15057e+02   [time:  1.3e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 10]
+  >>>>>> min:    9.54121e+01   [time:  1.3e+02]
+
+- BM   > FuncPathological      [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 10]
+  >>>>>> min:    1.07993e+02   [time:  1.5e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 10]
+  >>>>>> min:    5.14440e+05   [time:  5.3e+01]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 10]
+  >>>>>> min:    1.18505e+06   [time:  4.4e+00]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 10]
+  >>>>>> min:    5.74160e+05   [time:  1.4e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 10]
+  >>>>>> min:    5.84179e+05   [time:  1.2e+02]
+
+- BM   > FuncPinter            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 10]
+  >>>>>> min:    1.59300e+06   [time:  1.7e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 10]
+  >>>>>> min:    4.98614e+06   [time:  4.5e+01]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 10]
+  >>>>>> min:    2.92485e+12   [time:  5.3e+00]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 10]
+  >>>>>> min:    1.24556e+11   [time:  1.7e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 10]
+  >>>>>> min:    1.26451e+12   [time:  1.2e+02]
+
+- BM   > FuncQing              [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 10]
+  >>>>>> min:    1.72101e+12   [time:  1.8e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 10]
+  >>>>>> min:    9.18917e+02   [time:  5.1e+01]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 10]
+  >>>>>> min:    3.62572e+03   [time:  3.8e+00]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 10]
+  >>>>>> min:    1.09231e+03   [time:  1.4e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 10]
+  >>>>>> min:    9.31460e+02   [time:  1.4e+02]
+
+- BM   > FuncRastrigin         [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 10]
+  >>>>>> min:    3.84688e+03   [time:  1.5e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 10]
+  >>>>>> min:    9.85008e+01   [time:  5.7e+01]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 10]
+  >>>>>> min:    1.14381e+02   [time:  5.7e+00]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 10]
+  >>>>>> min:    1.05625e+02   [time:  1.4e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 10]
+  >>>>>> min:    1.01483e+02   [time:  1.4e+02]
+
+- BM   > FuncSchaffer          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 10]
+  >>>>>> min:    1.18522e+02   [time:  1.5e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 10]
+  >>>>>> min:   -3.84541e+02   [time:  4.9e+01]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 10]
+  >>>>>> min:   -1.80536e+02   [time:  4.2e+00]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 10]
+  >>>>>> min:   -1.91790e+02   [time:  1.4e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 10]
+  >>>>>> min:   -1.87945e+02   [time:  1.4e+02]
+
+- BM   > FuncSchwefel          [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 10]
+  >>>>>> min:   -1.46509e+02   [time:  1.4e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 10]
+  >>>>>> min:    3.15984e+02   [time:  4.7e+01]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 10]
+  >>>>>> min:    2.29247e+03   [time:  4.0e+00]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 10]
+  >>>>>> min:    3.25239e+02   [time:  1.2e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 10]
+  >>>>>> min:    3.16568e+02   [time:  1.4e+02]
+
+- BM   > FuncSphere            [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 10]
+  >>>>>> min:    2.43817e+03   [time:  1.4e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 10]
+  >>>>>> min:    1.55050e+05   [time:  4.7e+01]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 10]
+  >>>>>> min:    7.40158e+05   [time:  3.8e+00]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 10]
+  >>>>>> min:    1.56807e+05   [time:  1.3e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 10]
+  >>>>>> min:    1.55344e+05   [time:  1.3e+02]
+
+- BM   > FuncSquares           [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 10]
+  >>>>>> min:    1.06359e+06   [time:  1.4e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 10]
+  >>>>>> min:    7.71303e+04   [time:  1.4e+01]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 10]
+  >>>>>> min:    9.49134e+06   [time:  5.7e+00]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 10]
+  >>>>>> min:    1.01868e+05   [time:  1.6e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 10]
+  >>>>>> min:    1.79422e+07   [time:  1.2e+02]
+
+- BM   > FuncTrigonometric     [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 10]
+  >>>>>> min:    1.14232e+07   [time:  1.7e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > htbb                  [m: 10000; seed: 10]
+  >>>>>> min:    3.19235e-01   [time:  5.2e+01]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > ttopt                 [m: 10000; seed: 10]
+  >>>>>> min:    6.19822e-01   [time:  3.4e+00]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > opo                   [m: 10000; seed: 10]
+  >>>>>> min:    3.66720e-01   [time:  1.3e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > spsa                  [m: 10000; seed: 10]
+  >>>>>> min:    3.22476e-01   [time:  1.3e+02]
+
+- BM   > FuncWavy              [d: 256; n: 8]
+- OPTI > pso                   [m: 10000; seed: 10]
+  >>>>>> min:    6.44173e-01   [time:  1.5e+02]

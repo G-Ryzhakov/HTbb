@@ -1,0 +1,5 @@
+
+
+------------ FuncChung (mean result)
+htbb       | Err 1.24e-02 | Evals 3.9e+03 | Time 5.67e+01
+tt-cross   | Err 4.12e-02 | Evals 3.9e+03 | Time 4.45e-01

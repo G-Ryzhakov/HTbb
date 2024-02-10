@@ -1,0 +1,5 @@
+
+
+------------ FuncDixon (d 10; n 8; nswp 100; r 2; dr_max 1; seed 10)
+htbb       | Error 2.12e-02 | Evals 1.5e+03 | Time 4.32e+00
+tt-cross   | Error 2.22e-02 | Evals 1.4e+03 | Time 7.54e-02

@@ -1,0 +1,43 @@
+
+
+------------ FuncAlpine (d 1024; n 8; nswp 100; r 2; dr_max 1; seed 6)
+htbb       | Error 1.90e-03 | Evals 4.1e+04 | Time 2.35e+03
+
+------------ FuncChung (d 1024; n 8; nswp 100; r 2; dr_max 1; seed 6)
+htbb       | Error 7.64e-03 | Evals 4.1e+04 | Time 2.55e+03
+
+------------ FuncDixon (d 1024; n 8; nswp 100; r 2; dr_max 1; seed 6)
+htbb       | Error 2.83e-03 | Evals 1.1e+05 | Time 3.23e+03
+
+------------ FuncGriewank (d 1024; n 8; nswp 100; r 2; dr_max 1; seed 6)
+htbb       | Error 3.23e-14 | Evals 4.1e+04 | Time 2.47e+03
+
+------------ FuncPathological (d 1024; n 8; nswp 100; r 2; dr_max 1; seed 6)
+htbb       | Error 2.93e-02 | Evals 4.6e+05 | Time 2.62e+03
+
+------------ FuncPinter (d 1024; n 8; nswp 100; r 2; dr_max 1; seed 6)
+htbb       | Error 5.54e-03 | Evals 6.3e+05 | Time 3.25e+03
+
+------------ FuncQing (d 1024; n 8; nswp 100; r 2; dr_max 1; seed 6)
+htbb       | Error 1.13e-02 | Evals 4.1e+04 | Time 2.91e+03
+
+------------ FuncRastrigin (d 1024; n 8; nswp 100; r 2; dr_max 1; seed 6)
+htbb       | Error 5.12e-04 | Evals 4.1e+04 | Time 2.98e+03
+
+------------ FuncSchaffer (d 1024; n 8; nswp 100; r 2; dr_max 1; seed 6)
+htbb       | Error 1.55e-02 | Evals 2.1e+05 | Time 2.98e+03
+
+------------ FuncSchwefel (d 1024; n 8; nswp 100; r 2; dr_max 1; seed 6)
+htbb       | Error 1.46e-13 | Evals 4.1e+04 | Time 2.98e+03
+
+------------ FuncSphere (d 1024; n 8; nswp 100; r 2; dr_max 1; seed 6)
+htbb       | Error 4.56e-14 | Evals 4.1e+04 | Time 2.94e+03
+
+------------ FuncSquares (d 1024; n 8; nswp 100; r 2; dr_max 1; seed 6)
+htbb       | Error 2.64e-14 | Evals 4.1e+04 | Time 3.25e+03
+
+------------ FuncTrigonometric (d 1024; n 8; nswp 100; r 2; dr_max 1; seed 6)
+htbb       | Error 2.42e-02 | Evals 4.9e+04 | Time 2.90e+03
+
+------------ FuncWavy (d 1024; n 8; nswp 100; r 2; dr_max 1; seed 6)
+htbb       | Error 2.40e-04 | Evals 4.1e+04 | Time 2.59e+03

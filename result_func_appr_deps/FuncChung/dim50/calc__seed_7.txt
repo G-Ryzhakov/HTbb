@@ -1,0 +1,5 @@
+
+
+------------ FuncChung (d 50; n 8; nswp 100; r 2; dr_max 1; seed 7)
+htbb       | Error 1.31e-02 | Evals 2.0e+03 | Time 1.93e+01
+tt-cross   | Error 6.73e-02 | Evals 2.0e+03 | Time 1.11e-01
