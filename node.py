@@ -306,7 +306,7 @@ class Node():
         except:
             if self.is_leaf:
                 self._convolv = np.einsum('jk->j', self.G)
-
+            else:
                 self._convolv = np.einsum('ijk,i,k->j',
                     self.G, self.L.convolv, self.R.convolv)
             return self._convolv
